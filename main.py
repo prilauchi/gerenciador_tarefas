@@ -6,7 +6,7 @@ def adicionar_tarefa(lista_tarefas, tarefa):
 
 def listar_tarefas(lista_tarefas):
     """Lista todas as tarefas com seus índices."""
-    # Implementar a função aqui
+    print(lista_tarefas)
 
 def remover_tarefa(lista_tarefas, indice):
     """Remove uma tarefa da lista pelo índice."""
